@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Punyasree-123
+- 👋 Hi, I’m @Punyasree
 - 👀 I’m interested in Data analyst profile
 - 🌱 I’m currently learning Data Science
 - 📫 How to reach me - ping me here https://www.linkedin.com/in/punyasree-roy-6844b4305/
